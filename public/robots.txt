@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://prisec.com
+
+# Sitemaps
+Sitemap: https://prisec.com/sitemap.xml
